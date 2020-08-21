@@ -26,7 +26,7 @@ class LunaModel(nn.Module):
 
         self._init_weights()
 
-    # see also https://github.com/pytorch/pytorch/issues/18182
+
     def _init_weights(self):
         for m in self.modules():
             if type(m) in {
