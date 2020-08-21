@@ -36,7 +36,7 @@ class LunaTrainingApp:
         parser = argparse.ArgumentParser()
         parser.add_argument('--batch-size',
             help='Batch size to use for training',
-            default=32,
+            default=256,
             type=int,
         )
         parser.add_argument('--num-workers',
