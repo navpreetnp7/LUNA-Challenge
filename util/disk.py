@@ -78,7 +78,7 @@ class GzipDisk(Disk):
         return value
 
 def getCache(scope_str):
-    return FanoutCache('D:/luna/cache/' + scope_str,
+    return FanoutCache('../data-luna/cache/' + scope_str,
                        disk=GzipDisk,
                        shards=64,
                        timeout=1,
