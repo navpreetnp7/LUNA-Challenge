@@ -30,7 +30,7 @@ The model is based on the book Deep Learning with PyTorch, (https://www.manning.
 
 
 
-#### Sample result from segmentation identifying a positive nodule
+### Sample result from segmentation identifying a positive nodule
 
 ![7](./imgs/7.png)
 
