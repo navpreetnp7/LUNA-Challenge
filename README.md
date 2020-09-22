@@ -20,40 +20,40 @@ The model is based on the book Deep Learning with PyTorch, (https://www.manning.
 
 
 
-![2](.\imgs\2.png)
+![2](./imgs/2.png)
 
 
 
 ## U-Net Architecture for Segmentation
 
-![6](.\imgs\6.png)
+![6](./imgs/6.png)
 
 
 
 #### Sample result from segmentation identifying a positive nodule
 
-![7](.\imgs\7.png)
+![7](./imgs/7.png)
 
 
 
 ## Resnet model for classification
 
-![3](.\imgs\3.png)
+![3](./imgs/3.png)
 
 
 
 #### Data augmentation techniques for balanced dataset
 
-![5](.\imgs\5.png)
+![5](./imgs/5.png)
 
 
 
 ### A CT segment
 
-![8](.\imgs\8.png)
+![8](./imgs/8.png)
 
 
 
 ### ROC Curve for final classifier with last layer fine tuned
 
-![9](.\imgs\9.png)
+![9](./imgs/9.png)
